@@ -2,7 +2,7 @@
 
 
 👨‍🎓 **Personal profile**
-- 🔭 I’m a student in fjU
+- 🔭 I’m a student in FJUT
 - 🌱 I’m currently learning Web front end & Java back end
 - 💬 Ask me about Java/C/Python/Hackintosh,although these are not my proficient fields,I can give some little tips to help
 
