@@ -14,6 +14,6 @@
 
 [![personal site](https://img.shields.io/badge/个人网站-pink)](https://blog.dhbxs.top/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/dhbxs)
-[![邮箱](https://img.shields.io/badge/mail-blue?logo=Minutemailer)](yao@mail.dhbxs.top/)
+[![邮箱](https://img.shields.io/badge/mail-blue?logo=Minutemailer)](mailto:yao@mail.dhbxs.top/)
 
 [![CSDN](https://img.shields.io/badge/CSDN-red?logo=Codio)](https://blog.csdn.net/ChaoYang_183)
