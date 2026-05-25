@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           filename: metrics.base.svg
-          base: header, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
   
   # 日历插件
